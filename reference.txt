@@ -1,0 +1,14 @@
+Axelsson S. Intrusion detection systems: a survey and taxonomy. Technical Report, Chalmers University. Aydın M, Zaim A, Ceylan K. A hybrid intrusion detection system design for computer network security. Computers and Electrical Engineering 2009;35 (3):517–26. 
+Barber R. Hacking techniques: the tools that hackers use and how they are evolving to become more sophisticated. Computer Fraud and Security 2001;2001 (3):9–12.
+ Beverly R. A robust classifier for passive TCP/IP fingerprinting. Passive and Active Network Measurement 2004:158–67.
+ Bhuyan MH, Bhattacharyya DK, Kalita JK. Surveying port scans and their detection methodologies. The Computer Journal 2011a;54:1565–81.
+ Bhuyan MH, Bhattacharyya DK, Kalita JK. Survey on incremental approaches for network anomaly detection. International Journal of Communication Networks and Information Security 2011b;3(3):226–39.
+ Bhuyan M, Bhattacharyya D, Kalita J. NADO: network anomaly detection using outlier approach. In: Proceedings of the 1st international conference on communication, computing and security. New York, NY, USA: ACM; 2011c. p. 531–6. 
+N. Hoque et al. / Journal of Network and Computer Applications 40 (2014) 307–324 323Bhuyan M, Bhattacharyya D, Kalita J. Network anomaly detection: methods, systems and tools. IEEE Communications Surveys and Tutorials Early Access 2013;1:1–34. 
+Brahmi I, Yahia SB, Poncelet P. MAD-IDS: novel intrusion detection system using mobile agents and data mining approaches. In: Proceedings of the Pacific Asia conference on intelligence and security informatics. Berlin, Heidelberg: Springer-Verlag; 2010. p. 73–6.
+ Chandola V, Banerjee A, Kumar V. Anomaly detection: a survey. ACM Computing Surveys 2009;41(3):15.
+ Chen W-H, Hsu S-H, Shen H-P. Application of SVM and ANN for intrusion detection. Computer and Operation Research 2005;32(10):2617–34. 
+Chen Y, Hwang K, Ku W-S. Collaborative detection of DDoS attacks over multiple network domains. IEEE Transactions on Parallel Distributed Systems 2007;18 (12):1649–62.
+ Chu J, Ge Z, Huber R, Ji P, Yates J, Yu Y-C. Alert-ID: analyze logs of the network element in real time for intrusion detection. In: Research in attacks, intrusions, and defenses. Springer; 2012. p. 294–313. 
+Conti G, Abdullah K. Passive visual fingerprinting of network attack tools. In: Proceedings of the 2004 workshop on visualization and data mining for computer security. Washington, DC, USA: ACM; 2004. p. 45–54. 
+Corona I, Giacinto G, Roli F. Adversarial attacks against intrusion detection systems: taxonomy, solutions and open issues. Information Sciences 2013;239:201–25.
