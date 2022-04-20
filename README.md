@@ -88,7 +88,5 @@ They check for key vulnerabilities include but are not limited to:
 •	Breach in authentication protocols
 •	Components used in the system or network that may be used as access 
 
- 
-				Fig 4.1
 
 
