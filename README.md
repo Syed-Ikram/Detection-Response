@@ -18,27 +18,40 @@ IMPLEMENTATION:
 2.1.Dictionary attack
 
 Step1:  Start the wireless interface in monitor mode
+![image](https://user-images.githubusercontent.com/88451628/164322578-1e40a900-1b3b-40cd-a3be-540b669ed20c.png)
+
  
                                                     
 Step2: Select the target victim and copy the BSSID
+![image](https://user-images.githubusercontent.com/88451628/164322608-dbd1aff1-dfce-4fb5-b16c-581da99c5813.png)
+
  
                                                          
 Step3: Start airodump-ng to collect authentication handshake
+![image](https://user-images.githubusercontent.com/88451628/164322639-7fd71c66-5f4a-4755-97ea-3c7abe11468d.png)
+
  
                                                                                
 Step4: Use aireplay-ng to deauthenticate the wireless client
+![image](https://user-images.githubusercontent.com/88451628/164322658-30656fcd-dd84-499c-8074-f736f80e0d92.png)
  
                                                                     
 
 2.2Malware Attack
-Step1:Create a payload 
+Step1:Create a payload
+![image](https://user-images.githubusercontent.com/88451628/164322699-74130d9b-fda6-4200-8afb-88db14177d99.png)
+
  
                                                                
 Step2: After installing the payload to target device ,setting up exploit 
+![image](https://user-images.githubusercontent.com/88451628/164322724-0ede2e2a-02d7-42b6-b2b2-eb720d2e5f98.png)
+
  
                                                             
 2.3DoS attack
-Flooding a private server (192.168.29.240) with HTTP requests . The server becomes slow then later crashes . 
+Flooding a private server (192.168.29.240) with HTTP requests . The server becomes slow then later crashes .
+![image](https://user-images.githubusercontent.com/88451628/164322746-774edffa-ca60-45f6-8766-987d643b8cc9.png)
+
  
                                                                 
 3.RESULT:
@@ -51,12 +64,16 @@ Flooding a private server (192.168.29.240) with HTTP requests . The server becom
                                       
 3.2Malware Attack
 Exploiting the victim device 
+
 Listing installed apps in target device
+![image](https://user-images.githubusercontent.com/88451628/164322778-f1a39706-1d83-4fc9-8643-5f21b8c73877.png)
  
-				Fig 3.2.1
+				
 Taking a web-snap from target device
+![image](https://user-images.githubusercontent.com/88451628/164322845-3ad43da9-4a15-41df-9fdf-42681c03c2e5.png)
+
  
-				Fig 3.2.2
+				
 
 
 
