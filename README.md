@@ -14,38 +14,41 @@ Ethical Hacking is an authorized practice of bypassing system security to identi
 Ethical hackers aim to investigate the system or network for weak points that malicious hackers can exploit or destroy. They collect and analyze the information to figure out ways to strengthen the security of the system/network/applications. 
 
 IMPLEMENTATION:
+
 2.1.Dictionary attack
+
 Step1:  Start the wireless interface in monitor mode
  
-                                                     Fig 2.1.1
+                                                    
 Step2: Select the target victim and copy the BSSID
  
-                                                         Fig.2.1.2
+                                                         
 Step3: Start airodump-ng to collect authentication handshake
  
-                                                                                Fig 2.1.3
+                                                                               
 Step4: Use aireplay-ng to deauthenticate the wireless client
  
-                                                                    Fig 2.1.4
+                                                                    
 
 2.2Malware Attack
 Step1:Create a payload 
  
-                                                               Fig 2.2.1
+                                                               
 Step2: After installing the payload to target device ,setting up exploit 
  
-                                                             Fig 2.2.2
+                                                            
 2.3DoS attack
 Flooding a private server (192.168.29.240) with HTTP requests . The server becomes slow then later crashes . 
  
-                                                                Fig 2.3
+                                                                
 3.RESULT:
 3.1Dictionary attack: Run aircrack-ng to crack the pre-shared key.
 
-[image](https://user-images.githubusercontent.com/88451628/164322064-9fa2dfe3-5908-4b8d-91fc-d8a4b2b57639.png)
+![image](https://user-images.githubusercontent.com/88451628/164322456-aecd9c73-ba7c-4bd3-8145-ffdb84d8fc90.png)
+
 
   
-                                      Fig 3.1 
+                                      
 3.2Malware Attack
 Exploiting the victim device 
 Listing installed apps in target device
