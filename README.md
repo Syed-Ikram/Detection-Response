@@ -82,20 +82,7 @@ Taking a web-snap from target device
 ![image](https://user-images.githubusercontent.com/88451628/164322845-3ad43da9-4a15-41df-9fdf-42681c03c2e5.png)
 
  
-				
-
-
-
-4.CONCLUSION:
- The primary threat to any organization's security is a hacker: learning, understanding, and implementing how hackers operate can help network defenders prioritize potential risks and learn how to remediate them best
-Ethical hackers are hired by organizations to look into the vulnerabilities of their systems and networks and develop solutions to prevent data breaches. Consider it a high-tech permutation of the old saying “It takes a thief to catch a thief.”
-Ethical hackers are hired by organizations to look into the vulnerabilities of their systems and networks and develop solutions to prevent data breaches. Consider it a high-tech permutation of the old saying “It takes a thief to catch a thief.”
-They check for key vulnerabilities include but are not limited to:
-•	Injection attacks
-•	Changes in security settings
-•	Exposure of sensitive data
-•	Breach in authentication protocols
-•	Components used in the system or network that may be used as access 
+			
 
 
 
